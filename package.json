@@ -11,7 +11,7 @@
     "webpack-sources": "^0.1.0"
   },
   "devDependencies": {
-    "standard-version": "^4.0.0"
+    "standard-version": "^8.0.2"
   },
   "optionalDependencies": {
     "node-zopfli": "^2.0.0"
